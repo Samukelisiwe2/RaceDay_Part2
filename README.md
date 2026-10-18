@@ -1,10 +1,11 @@
 # RaceDay – Event and Race Management System
-<img width="1920" height="1080" alt="RaceDay_GitHub_Actions_56_Passed" src="https://github.com/user-attachments/assets/f8ec630e-452b-4262-bd2e-858c22bf5ae6" />
-<img width="1920" height="1080" alt="raceday_tests" src="https://github.com/user-attachments/assets/4eaa335a-f0e9-47c3-884f-070ca607c0b2" />
+<img width="1920" height="1080" alt="RaceDay_GitHub_Actions_60_Passed" src="https://github.com/user-attachments/assets/86801d6e-b3c5-4a62-85bd-a82b50fc2e9f" />
+<img width="1920" height="1080" alt="raceday-test 60" src="https://github.com/user-attachments/assets/c03621c2-6aa9-4a62-98dd-05beb9640dbc" />
+
 **Module:** PROG6212 – Portfolio of Evidence Part 2  
 **Developed using:** ASP.NET Core MVC, C#, .NET 10 and SQL Server  
 **GitHub Repository:** https://github.com/Samukelisiwe2/RaceDay_Part2
-**YouTube**:
+**YouTube**:https://youtu.be/wEFN6iGHMf8
 
 ## 1. About the Project
 
@@ -416,3 +417,4 @@ RaceDay is still a student project with room for improvement, but it demonstrate
 **Module:** PROG6212  
 **Assessment:** Portfolio of Evidence – Part 2  
 **Repository:** https://github.com/Samukelisiwe2/RaceDay_Part2
+**YouTube link :**https://youtu.be/wEFN6iGHMf8
